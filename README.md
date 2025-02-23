@@ -7,7 +7,7 @@ A fully responsive Notes App built using **React** with user authentication, JWT
 
 ## 🚀 Features
 - **User Authentication**: Register and login functionality with JWT token security.
-- **Create Notes**: Users can add, edit, and delete notes.
+- **Create Notes**: Users can add notes.
 - **Protected Routes**: Notes are accessible only to authenticated users.
 - **Fully Responsive**: Optimized for all devices.
 - **React Router**: Implemented for seamless navigation.
@@ -60,5 +60,3 @@ A fully responsive Notes App built using **React** with user authentication, JWT
 ## 💡 Contribution
 Feel free to fork this repository and contribute by submitting a pull request. 😊
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
